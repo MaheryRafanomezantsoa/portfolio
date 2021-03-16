@@ -41,7 +41,7 @@ export default function About(data) {
                     animate={{ opacity: 1, scale: 1, x: 0}}
                     transition={{ duration: 4}}>Comment?</motion.h2>
                     <p>J'ai suivi une formation intensive de 5 mois en Développement web et mobile dans le cadre d'une reconversion professionnelle à l'école EPITECH Lille.
-                        Je suis actuellement à la recherche d'un stage pour valider cette formation, mettre en pratique mes connaissances et acquérir d'autres compétences. 
+                        Je suis actuellement à la recherche d'une opportunité ( stage, alternance, CDI) pour mettre en pratique mes connaissances et acquérir d'autres compétences. 
                     </p>
                     <motion.h2 
                     initial={{ opacity: 0, scale: 0, x: -1000}}
