@@ -28,14 +28,14 @@ export default function About(data) {
                         J'aime ressentir la satisfaction d'avoir réalisé un projet en ayant surmonté des défis, des obstacles .
                         Je suis plutôt <span>sociable</span>, <span>serviable</span> et j'aime <span>travailler en équipe</span>. Ce qui me tient à coeur dans ma relation avec les autres c'est d'échanger dans le respect, de façon positive. 
                         J'accèpte les critiques objectives et émises de façon courtoise. Cela ne peut que me permettre de grandir et d'apprendre davantage.<br />
-                        A mes heures perdues, je joue avec mon fils, je cusine, je regarde des matchs de tennis et des tutos.
+                        A mes heures perdues, je joue avec mon fils, je cusine, je regarde des matchs de tennis et des tutos ( en dev bien sûr mais pas que 😊).
                         <span> Curieux</span> et <span>autonome</span>, je fais de la veille technologique quotidiennement et j'apprends en autodidacte.
                     </p>
                     <motion.h2 
                     initial={{ opacity: 0, scale: 0, x: -1000}}
                     animate={{ opacity: 1, scale: 1, x: 0}}
                     transition={{ duration: 3}}>Mon objectif?</motion.h2>
-                    <p>Devenir un <span>Développeur Full Stack</span> et être un acteur majeur dans la transformation digitale d'une entreprise partageant les mêmes valeurs que moi. </p>
+                    <p>Devenir un <span>Développeur Full Stack</span> et être un acteur majeur dans la transformation digitale et l'accompagnement d'une entreprise partageant les mêmes valeurs que moi. </p>
                     <motion.h2
                     initial={{ opacity: 0, scale: 0, x: -1000}}
                     animate={{ opacity: 1, scale: 1, x: 0}}
